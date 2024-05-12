@@ -1,4 +1,11 @@
 # METApoke
+
+#### This ruby script is for educational purposes ONLY 
+#### Web scraping violates META's terms of service 
+
+-----
+
+
 This Ruby script automates the checking of pokes on Facebook and notifies the user via email when a poke is recieved.
 It utilizes Selenium WebDriver for web automation to log in to Facebook, check for pokes, and automatically poke back the users who poked you.
 The script runs continuosly in the background, every hour checking for new pokes.
